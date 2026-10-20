@@ -1,0 +1,17 @@
+{
+    "name": "Karl mag Drohnen",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microbit-pxt-i2cpins": "github:bsiever/microbit-pxt-i2cpins#v0.0.6",
+        "radio": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "preferredEditor": "tsprj"
+}
